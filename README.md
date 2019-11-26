@@ -86,7 +86,7 @@ pod 'RFTabbarControllerAnimationManger'
 
 ## Author
 
-马永祥, 469994861@qq.com
+RuFeng, 469994861@qq.com
 
 ## License
 
