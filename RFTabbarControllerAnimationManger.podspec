@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/马永祥/RFTabbarControllerAnimationManger'
+  s.homepage         = 'https://github.com/ruFeng/RFTabbarControllerAnimationManger'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '马永祥' => '469994861@qq.com' }
-  s.source           = { :git => 'https://github.com/马永祥/RFTabbarControllerAnimationManger.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ruFeng/RFTabbarControllerAnimationManger.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - RFTabbarControllerAnimationManger (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - RFTabbarControllerAnimationManger (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  RFTabbarControllerAnimationManger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  RFTabbarControllerAnimationManger: b30f444f501a5c7a99484f0264cc93f0f109c3fa
+
+PODFILE CHECKSUM: 8806f2a3d2c7a5c012a0d6f3aef1223fb1d9b668
+
+COCOAPODS: 1.8.4

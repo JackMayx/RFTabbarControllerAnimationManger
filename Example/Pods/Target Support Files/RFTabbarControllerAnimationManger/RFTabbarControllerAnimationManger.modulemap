@@ -1,0 +1,6 @@
+framework module RFTabbarControllerAnimationManger {
+  umbrella header "RFTabbarControllerAnimationManger-umbrella.h"
+
+  export *
+  module * { export * }
+}
