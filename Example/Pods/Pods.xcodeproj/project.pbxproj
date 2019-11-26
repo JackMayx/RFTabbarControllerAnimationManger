@@ -69,7 +69,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0554B279D8ADC9C931C71B9B8E88FBA6 /* RFTabbarControllerAnimationManger.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RFTabbarControllerAnimationManger.framework; path = RFTabbarControllerAnimationManger.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0554B279D8ADC9C931C71B9B8E88FBA6 /* RFTabbarControllerAnimationManger.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RFTabbarControllerAnimationManger.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A3ACA72AE9B776E644F6D159AB3E80B /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		0C7BCE3CA0C61ECF980FED83F5542996 /* RFTabbarControllerAnimationManger-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RFTabbarControllerAnimationManger-dummy.m"; sourceTree = "<group>"; };
 		13C8BBFE2D9E3A9C566221B1DE04E91C /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
@@ -86,11 +86,11 @@
 		445A06C4F00A52DD8A48F79915BF77DD /* Pods-RFTabbarControllerAnimationManger_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RFTabbarControllerAnimationManger_Example-umbrella.h"; sourceTree = "<group>"; };
 		49D7BD09069EA5619CDE133FDABFA657 /* RFPercentDrivenInteractiveTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RFPercentDrivenInteractiveTransition.m; path = RFTabbarControllerAnimationManger/Classes/RFPercentDrivenInteractiveTransition.m; sourceTree = "<group>"; };
 		4A25BF9A6252FF8AE1C5D3EA72C748E9 /* RFPercentDrivenInteractiveTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RFPercentDrivenInteractiveTransition.h; path = RFTabbarControllerAnimationManger/Classes/RFPercentDrivenInteractiveTransition.h; sourceTree = "<group>"; };
-		4B4053F39335562ABB449CC890757524 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		4B4053F39335562ABB449CC890757524 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4E12F24FA1AE4AE280AB0BC00AD44785 /* Pods-RFTabbarControllerAnimationManger_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RFTabbarControllerAnimationManger_Tests-umbrella.h"; sourceTree = "<group>"; };
 		530ED0553BFCF7FEF36C9D8979D02119 /* Pods-RFTabbarControllerAnimationManger_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RFTabbarControllerAnimationManger_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		5A84706D0064698F6D9A7B4F6FD4DFA5 /* Pods-RFTabbarControllerAnimationManger_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RFTabbarControllerAnimationManger_Example-dummy.m"; sourceTree = "<group>"; };
-		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E601BD54DA9BF4071437E60125281FA /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		6132270AA6042DF66927B2896CBEA312 /* Pods-RFTabbarControllerAnimationManger_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RFTabbarControllerAnimationManger_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		64DF00203CC089F516622AC83744F516 /* Pods-RFTabbarControllerAnimationManger_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RFTabbarControllerAnimationManger_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -109,11 +109,11 @@
 		8CAA89EEF1039078430D7A886477E365 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		8F1FE5C23F1BC485C54B92C32E78391F /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
 		93BEB21EA5D41083557DF9D22E32EBF5 /* Pods-RFTabbarControllerAnimationManger_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RFTabbarControllerAnimationManger_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		98DAF324F785A2E1107728A76AD31DF8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		98DAF324F785A2E1107728A76AD31DF8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		98FD387DFA194173633270BAF1BCD859 /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
 		9C28755E12611F3E97AB0E2E5F97A53F /* Pods-RFTabbarControllerAnimationManger_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RFTabbarControllerAnimationManger_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		9C3726F4B8DD41B826A354CA14A4A5F3 /* Pods_RFTabbarControllerAnimationManger_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RFTabbarControllerAnimationManger_Tests.framework; path = "Pods-RFTabbarControllerAnimationManger_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9C3726F4B8DD41B826A354CA14A4A5F3 /* Pods_RFTabbarControllerAnimationManger_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RFTabbarControllerAnimationManger_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A25844C26701FA4BCAEF64150B56777F /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		AA172EA1A198EEFBE0794EACF7993C02 /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
 		AD0B81AC7DF4855803A0FA70985F8A99 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
@@ -122,8 +122,8 @@
 		C4FB96D45A2A6AC8EDF53C71EF1A3507 /* Pods-RFTabbarControllerAnimationManger_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RFTabbarControllerAnimationManger_Tests.modulemap"; sourceTree = "<group>"; };
 		C9DEF41D3F601CB68D4338D135F8F573 /* RFTabbarControllerAnimationManger.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RFTabbarControllerAnimationManger.xcconfig; sourceTree = "<group>"; };
 		D3067EAFD5B0A06885968D137840DB70 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
-		D45DDCBED9CB3E18ADF8AE40E0BB4F47 /* Pods_RFTabbarControllerAnimationManger_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RFTabbarControllerAnimationManger_Example.framework; path = "Pods-RFTabbarControllerAnimationManger_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D4F1FDCFF005A496F589EC1423C3427D /* RFTabbarControllerAnimationManger.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = RFTabbarControllerAnimationManger.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D45DDCBED9CB3E18ADF8AE40E0BB4F47 /* Pods_RFTabbarControllerAnimationManger_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RFTabbarControllerAnimationManger_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4F1FDCFF005A496F589EC1423C3427D /* RFTabbarControllerAnimationManger.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = RFTabbarControllerAnimationManger.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		DE35F81C954881204729C569018D98C0 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
 		E0956940883830C651240E754E3ECC52 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		E354F8FD537351F26F7949B4EBFA5101 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
@@ -286,7 +286,6 @@
 				45E4BEB48F67ECE4946F86A2669DF19F /* Support Files */,
 				820C839EC049005CB82FAAF13AFDCB95 /* SwiftSupport */,
 			);
-			name = FBSnapshotTestCase;
 			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
@@ -738,8 +737,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
