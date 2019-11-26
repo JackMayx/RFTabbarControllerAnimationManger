@@ -10,11 +10,11 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 ```
 /// 创建滑动手势
- 		var panGestureRecognizer:UIPanGestureRecognizer!
+ 	var panGestureRecognizer:UIPanGestureRecognizer!
 
 /// 添加手势
- 		panGestureRecognizer = UIPanGestureRecognizer(target: self, action: #selector(panGestureRecognizerMethod(pan:)))
-        self.view.addGestureRecognizer(panGestureRecognizer)
+ 	panGestureRecognizer = UIPanGestureRecognizer(target: self, action: #selector(panGestureRecognizerMethod(pan:)))
+    self.view.addGestureRecognizer(panGestureRecognizer)
 
 ///复制一下实现方法
     @objc func panGestureRecognizerMethod(pan : UIPanGestureRecognizer){
@@ -40,7 +40,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 
   ///实现 tabBarController的UITabBarControllerDelegate代理
-  func tabBarController(_ tabBarController: UITabBarController, animationControllerForTransitionFrom fromVC: UIViewController, to toVC: UIViewController) -> UIViewControllerAnimatedTransitioning? {
+    func tabBarController(_ tabBarController: UITabBarController, animationControllerForTransitionFrom fromVC: UIViewController, to toVC: UIViewController) -> UIViewControllerAnimatedTransitioning? {
         
         /// 可以屏蔽点击item时的动画效果
         if self.panGestureRecognizer.state == .began || self.panGestureRecognizer.state == .changed{
